@@ -1,0 +1,59 @@
+h1{
+	color: rgb(40, 20, 123, 0.94);
+	text-align: center;
+	/*background: rgba(0,1,1,0.3);*/		
+	font-size: 300%;
+	font-variant: small-caps;
+	font-family: Arial;
+}
+h2{
+	color: rgba(254, 13, 13, 0.69);
+	/*text-align: center;*/
+	background: rgba(33, 134, 67, 0.26); 
+	font-size: 190%;
+	font-variant: small-caps;
+}
+body{
+	background:rgba(72, 199, 145, 0.23);
+	margin: 4%;
+}
+header{
+	text-align: center;
+	background: rgba(246, 235, 242, 0.88);
+	padding: 2%;
+}
+nav{
+	text-align: center;
+	font-size: 180%;
+	font-variant: small-caps;
+}
+a{
+	font-variant: small-caps;
+	margin-right: 10%;
+	font-size: 110%;
+    /*background: rgba(33, 24, 238, 0.3);
+	border: solid 1px;*/
+	padding: 2%;
+    width: 10%;
+    display: inline-block 
+}
+footer{
+	background: rgba(47, 122, 184, 0.56);
+	width: 22%;
+	font-style: italic ;
+	font-size-adjust: 150%;
+}
+section{
+	display: table-cell;
+	margin: 5%;
+	border: solid 1.5px;
+	padding: 1%;
+	width: 13%;
+}
+ul{
+	list-style-type: square;
+}
+ol{
+	list-style-type: upper-roman;
+}
+
