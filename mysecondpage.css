@@ -24,17 +24,16 @@ header{
 }
 nav{
 	text-align: center;
-	font-size: 180%;
+	font-size: 120%;
 	font-variant: small-caps;
 }
 a{
 	font-variant: small-caps;
-	margin-right: 10%;
-	font-size: 110%;
+	margin-right: 6%;
     	background: rgba(157, 125, 135, 0.61);
 	border: solid 1px;
 	padding: 2%;
-    	width: 10%;
+    	width: 15%;
     	display: inline-block 
 }
 a:hover{
